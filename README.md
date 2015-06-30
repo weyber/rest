@@ -1,4 +1,4 @@
-RESTful Web Service Server-Side
+Web service RESTful 
 ==================================
 
 Um simples Web Service RESTful desenvolvida em Python.
@@ -17,4 +17,4 @@ Tecnologias utilizadas
 
 Observação 
 --------------------------------------
-A API client no `https://github.com/weyber/RestClientJava`.
+A API client no `https://github.com/weyber/api-client`.
